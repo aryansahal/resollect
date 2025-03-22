@@ -1,0 +1,16 @@
+id,loanType,borrower,borrowerAddress,coBorrowerName,coBorrowerAddress,currentDPD,sanctionAmount,region,status
+L2BU3247,Home Loan,Vedika Sachar,83 Yogi Garj, Kasapa-058720,Divit Vora,24/543, Acharya Path Gngole-052360,91,1934068,West,U
+L2BU3243,Car Loan,Hrishita Agrawal,86/622, Deo Path, Berhampore 841186,Mahika Tak,58 Telia Road, Sultan Pur Myra 919878,100,1842143,North,M
+L2BU4567,Business Loan,Arjun Mehta,45 Gandhi Road, Mumbai-400001,Priya Mehta,45 Gandhi Road, Mumbai-400001,75,2500000,West,U
+L2BU5432,Education Loan,Rajeev Kumar,12 University Colony, Delhi-110007,Suman Kumar,12 University Colony, Delhi-110007,45,850000,North,M
+L2BU7890,Home Loan,Meera Sharma,78 Lake View Apartments, Bangalore-560001,Vikram Sharma,78 Lake View Apartments, Bangalore-560001,120,3500000,South,U
+L2BU2345,Personal Loan,Ananya Patel,23 Green Park, Ahmedabad-380015,Rahul Patel,23 Green Park, Ahmedabad-380015,60,750000,West,M
+L2BU8765,Car Loan,Karan Singh,56 Rajpur Road, Dehradun-248001,Simran Singh,56 Rajpur Road, Dehradun-248001,85,1200000,North,U
+L2BU9876,Business Loan,Suresh Reddy,34 Industrial Area, Hyderabad-500072,Lakshmi Reddy,34 Industrial Area, Hyderabad-500072,95,4000000,South,M
+L2BU6543,Home Loan,Deepak Gupta,89 Civil Lines, Jaipur-302006,Sneha Gupta,89 Civil Lines, Jaipur-302006,110,2800000,North,U
+L2BU1234,Education Loan,Rohan Joshi,67 College Road, Pune-411001,Mohan Joshi,67 College Road, Pune-411001,70,950000,West,M
+L2BU7654,Personal Loan,Nandini Shah,28 Malviya Nagar, Chennai-600036,Rajiv Shah,28 Malviya Nagar, Chennai-600036,55,650000,South,U
+L2BU5678,Home Loan,Alok Verma,123 Hill View, Shimla-171001,Prerna Verma,123 Hill View, Shimla-171001,105,2100000,North,M
+L2BU8901,Business Loan,Kavita Desai,45 Industrial Estate, Surat-395003,Harish Desai,45 Industrial Estate, Surat-395003,88,3800000,West,U
+L2BU2109,Car Loan,Vijay Menon,72 Marine Drive, Kochi-682001,Tara Menon,72 Marine Drive, Kochi-682001,65,980000,South,M
+L2BU3456,Education Loan,Arnav Khanna,91 University Road, Kolkata-700009,Sunita Khanna,91 University Road, Kolkata-700009,50,1100000,East,U
